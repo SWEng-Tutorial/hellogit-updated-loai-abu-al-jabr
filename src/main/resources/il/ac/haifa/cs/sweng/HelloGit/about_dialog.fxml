@@ -11,13 +11,12 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Git-Hub is here"
+		   text="Hi there, its Loai"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
-			<Font size="31.0" />
+			<Font size="25.0" />
 		</font>
 	</Label>
-
 </VBox>
 
